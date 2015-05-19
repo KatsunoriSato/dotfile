@@ -1,0 +1,1 @@
+/Users/satouk/dotfiles/.vimrc
