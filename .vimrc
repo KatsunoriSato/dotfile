@@ -187,7 +187,6 @@ if dein#load_state('~/.cache/dein')
   endif
 
   call dein#add('itchyny/lightline.vim')
-  call dein#add('itchyny/calendar.vim')
 
   call dein#add('junegunn/fzf', { 'build': './install -all', 'merged': 0})
   call dein#add('junegunn/fzf.vim', { 'depends': 'fzf'})
